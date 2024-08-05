@@ -4,9 +4,11 @@
 This project demonstrates an innovative approach to controlling system volume using hand gestures. Developed with Python, the application integrates several powerful libraries to offer a seamless, hands-free volume control experience.
 
 Project Overview
+
 The Hand Gesture Volume Control system combines Flask for web serving, OpenCV for computer vision, and pycaw for audio management. By capturing video from a webcam and processing it in real-time, the application detects hand gestures and translates them into volume adjustments.
 
 Key Features :- 
+
 • Real-Time Hand Gesture Detection: Utilizes OpenCV and a hand tracking module to detect hand movements and gestures.
 
 • Dynamic Volume Control: Adjusts the system volume based on the distance between the user's fingers, providing intuitive and responsive control.
@@ -17,6 +19,7 @@ Key Features :-
 
 
 Technologies Used :-
+
 • Flask: A lightweight web framework for serving the video feed and creating a web interface.
 
 • OpenCV: For capturing and processing video frames to detect hand gestures.
